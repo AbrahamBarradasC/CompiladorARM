@@ -4,13 +4,8 @@ Inicio main
 		var ent num1;
 	}
 
-	for(ent i=65;i>18; dec i){
-		si(num >= num){
-		var ent num1 = 10;
-		}sino{
-			var flot num2;
-		}
-
+	for(ent i=65;i > 18; dec i){
+		var ent num;
 	}
 
 	for(flot k = 0; k < 10; inc k){
