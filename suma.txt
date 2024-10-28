@@ -15,7 +15,7 @@ Inicio main
 	
 	x = a mas b div (a mult c);
 	suma = a mas c;
-	suma = 2 mas 2;
+	suma2 = 2 mas 2;
 	resta = 3 menos 2;
 	division = 4.5 div 2.5;
 	multiplicacion = 2.5 mult 2.5;

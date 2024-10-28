@@ -1,7 +1,7 @@
 Inicio main
 {
 
-  var numero cad;
+  var cad numero;
   numero = "10";
 
 }Fin
