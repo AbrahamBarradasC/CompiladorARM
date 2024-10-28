@@ -2,6 +2,7 @@ Inicio main
 {
 	var ent x;
 	var ent suma;
+	var ent suma2;
 	var ent resta;
 	var flot division;
 	var flot multiplicacion;
