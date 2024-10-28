@@ -1,10 +1,9 @@
 Inicio main
 {
+	var ent i;
 	while(i <= n){
-		var num ent = 2;
-		var num flot;
-		si(num1 < 1){
-			escribir("hola mundo");
-		}
+		var ent num = 2;
+		var flot num2;
+		var ent num1;
 	}
 }FIN
