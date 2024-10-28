@@ -1,7 +1,10 @@
 Inicio main
 {
+  var ent num;
+  var ent num2;
+  var ent num3;
   SI(num >= 2 and num2 == 5){
-	var num1 ent = 10;
+	var ent num1 = 10;
 }
 
   SI(num3 == 2){

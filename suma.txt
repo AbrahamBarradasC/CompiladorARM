@@ -1,8 +1,8 @@
 Inicio main
 {
-	var ent x = 2.5;
+	var ent x;
 	var ent suma;
-	var ent resta ;
+	var ent resta;
 	var flot division;
 	var flot multiplicacion;
 	var flot residuo;
@@ -17,9 +17,9 @@ Inicio main
 	suma = a mas c;
 	suma = 2 mas 2;
 	resta = 3 menos 2;
-	division = 4 div 2;
-	multiplicacion = 2 mult 2;
-	residuo = 8 res 2;
+	division = 4.5 div 2.5;
+	multiplicacion = 2.5 mult 2.5;
+	residuo = 8.5 res 2.5;
 
 	escribir(x);
 	escribir("Resultado AND: " + resultadoAND);
